@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sushant Sanjay Wadjikar</h1>
+<h1 align="center">Namaskar &#128591; I'm Sushant Sanjay Wadjikar</h1>
 <h3 align="center">I am on a journey from an automation test engineer to developer. I feel learning any skillset is mere a shift in mindset. With focus , discipline and consistency we can achieve any planned task in this world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learnwithsushant&label=Profile%20views&color=0e75b6&style=flat" alt="learnwithsushant" /> </p>
