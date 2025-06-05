@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/plussushant" target="blank"><img src="https://img.shields.io/twitter/follow/plussushant?logo=twitter&style=for-the-badge" alt="plussushant" /></a> </p>
 
-- 🌱 I’m currently learning **Python from Udemy and front end development from FreeCodeCamp.**
+- 🌱 I’m currently learning 
+- 🌱 I’m currently learning
+<p>
+  <a href="https://www.udemy.com/course/spring-hibernate-tutorial/?couponCode=ST21MT30625G1" target="_blank"><strong>Spring Boot 3, Spring 6 & Hibernate for Beginners</strong></a> and 
+  <a href="https://www.freecodecamp.org" target="_blank"><strong>front end development from FreeCodeCamp</strong></a>.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
