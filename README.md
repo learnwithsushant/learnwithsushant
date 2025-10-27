@@ -1,20 +1,75 @@
-<h1 align="center">Namaskar &#128591; I'm Sushant Sanjay Wadjikar</h1>
-<h3 align="center">I am on a journey from being an automation test engineer to developer. I feel learning any skillset is mere a shift in mindset. With focus , discipline and consistency we can achieve any planned task in this world.</h3>
+<h1 align="center">🙏 Namaskar, I'm Sushhant Sanjay Wadjikar</h1>
+<h3 align="center">🚀 Curious Coder | Evolving Through Unlearn → Learn → Relearn | Progressing Daily Toward AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=learnwithsushant&label=Profile%20views&color=0e75b6&style=flat" alt="learnwithsushant" /> </p>
-
-<p align="left"> <a href="https://twitter.com/plussushant" target="blank"><img src="https://img.shields.io/twitter/follow/plussushant?logo=twitter&style=for-the-badge" alt="plussushant" /></a> </p>
-
-- 🌱 I’m currently learning 
-<p>
-  <a href="https://www.udemy.com/course/spring-hibernate-tutorial/?couponCode=ST21MT30625G1" target="_blank"><strong>Spring Boot 3, Spring 6 & Hibernate for Beginners</strong></a> and 
-  <a href="https://www.freecodecamp.org" target="_blank"><strong>front end development from FreeCodeCamp</strong></a>.
+<p align="center">
+  <em>"Learning any skillset is a mindset shift — with focus, discipline, and consistency, we can achieve anything we plan."</em>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=learnwithsushant&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views"/>
+  <a href="https://twitter.com/plussushant" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/plussushant?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
+  </a>
+</p>
+
+---
+
+### 🌱 Currently Exploring
+- 🚀 **Spring Boot 3, Spring 6 & Hibernate** – [Udemy Course](https://www.udemy.com/course/spring-hibernate-tutorial/?couponCode=ST21MT30625G1)
+- 💻 **Front-End Development** – [FreeCodeCamp](https://www.freecodecamp.org)
+- 🐍 **Complete Python Developer Course** – [Udemy Course](https://www.udemy.com/share/101W8Q3@kAAbWCFDSRe8fupGMK91zpCGxNgkmg8phuuOguwmYNaPP6S7crk9WThTA_1xO4M=/)
+- ☁️ **CI/CD & DevOps Fundamentals** – GitHub Actions | Docker | Jenkins
+
+---
+
+### 📈 Daily Coding Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=learnwithsushant&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 🧩 Tech Stack
 <p align="left">
-<a href="https://twitter.com/plussushant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plussushant" height="30" width="40" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/></a>
+  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" height="40" alt="Selenium"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
+  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
+
+### 🏗️ Featured Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🧠 **Smart Test Automation Framework** | A hybrid automation framework integrating Selenium, TestNG & Maven for CI/CD readiness. | Java, Selenium, TestNG, Jenkins |
+| ☕ **Spring Boot API Hub** | RESTful microservices with Swagger, Lombok & JPA. | Java, Spring Boot, Swagger, MySQL |
+
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=learnwithsushant&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnwithsushant&theme=tokyonight" alt="GitHub streak" height="150"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/plussushant" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sushant-wadjikar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sushantwadjikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### ✨ Fun Fact
+> I love simplifying complex tech concepts for beginners — that’s why I created **Learn With Sushant**.  
+> Teaching makes learning 2× deeper. 💡
