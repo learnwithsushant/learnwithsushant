@@ -1,4 +1,4 @@
-<h1 align="center">🙏 Namaskar, I'm Sushant Sanjay Wadjikar</h1>
+<h1 align="center">🙏 Namaskar, I'm Sushhant Sanjay Wadjikar</h1>
 <h3 align="center">💻🚀 Curious Coder | Evolving Through Unlearn → Learn → Relearn | Progressing Daily Toward AI</h3>
 
 <p align="center">
