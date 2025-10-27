@@ -1,5 +1,5 @@
-<h1 align="center">🙏 Namaskar, I'm Sushhant Sanjay Wadjikar</h1>
-<h3 align="center">🚀 Curious Coder | Evolving Through Unlearn → Learn → Relearn | Progressing Daily Toward AI</h3>
+<h1 align="center">🙏 Namaskar, I'm Sushant Sanjay Wadjikar</h1>
+<h3 align="center">💻🚀 Curious Coder | Evolving Through Unlearn → Learn → Relearn | Progressing Daily Toward AI</h3>
 
 <p align="center">
   <em>"Learning any skillset is a mindset shift — with focus, discipline, and consistency, we can achieve anything we plan."</em>
@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=learnwithsushant&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=learnwithsushant&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
   <a href="https://twitter.com/plussushant" target="_blank">
     <img src="https://img.shields.io/twitter/follow/plussushant?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
   </a>
@@ -57,6 +57,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=learnwithsushant&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnwithsushant&theme=tokyonight" alt="GitHub streak" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithsushant&layout=compact&theme=tokyonight" alt="Top Languages by Contribution" height="150"/>
+</p>
+
+---
+
+### 🔥 Contribution Graph – My Daily Code Discipline
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=learnwithsushant&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
