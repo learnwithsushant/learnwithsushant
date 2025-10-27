@@ -9,8 +9,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=learnwithsushant&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://twitter.com/plussushant" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/plussushant?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
+  <a href="https://x.com/plussushant" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"/>
   </a>
 </p>
 
@@ -50,7 +50,6 @@
 | 🧠 **Smart Test Automation Framework** | A hybrid automation framework integrating Selenium, TestNG & Maven for CI/CD readiness. | Java, Selenium, TestNG, Jenkins |
 | ☕ **Spring Boot API Hub** | RESTful microservices with Swagger, Lombok & JPA. | Java, Spring Boot, Swagger, MySQL |
 
-
 ---
 
 ### 📊 GitHub Insights
@@ -74,7 +73,7 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://twitter.com/plussushant" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/plussushant" target="_blank"><img src="https://img.shields.io/badge/X%20(Formerly%20Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://linkedin.com/in/sushant-wadjikar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:plussushant@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
