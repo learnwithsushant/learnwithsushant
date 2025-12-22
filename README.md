@@ -26,7 +26,7 @@
 
 ### 📈 Daily Coding Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=learnwithsushant&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=learnwithsushant&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ### 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=learnwithsushant&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnwithsushant&theme=tokyonight" alt="GitHub streak" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=learnwithsushant&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="150"/>
 </p>
 
 <p align="center">
